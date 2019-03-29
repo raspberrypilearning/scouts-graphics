@@ -1,50 +1,52 @@
-# Activity / project title
+# Game design
 
 # Leader notes
 
 ## Overview
 
-This activity fulfills Stage #, Requirement # of the Digital Maker Staged Activity Badge (write clear instructions for a computer or person to follow to complete a task) and Stage x, Requirement x of the Give other badge links here. 
+This activity fulfills Stage 3, Requirement 3 of the Digital Maker Staged Activity Badge (design and create digital graphics). 
 
-Give an idea of what the activity is.
+Young people will design a theme and create the sprites for a computer game.
 
 ## Information 
 
-+ Time - x minutes 
-+ Group size -  xx
-+ Preparation needed - include printing and that they’ll need to download software if working offline 
-+ Location - Indoor/outdoor being primary one here
++ Time - 45 minutes 
++ Group size - Flexible (ideally two young people per computer)
++ Preparation needed - If you’re running this activity without access to WiFi, you will need to download the software ahead of time. You may also wish to print handouts.
++ Location - Wherever you have access to computers
 
 ## You will need
 
-+ Laptops, tablets, micro:bits
-+ These can be shared between the group, recommend x per x young people
++ Laptops, desktop computers or tablets
++ These can be shared between the group, recommend 1 per 2 young people
 + Activity handouts
 
 ### If your meeting place has WiFi
 
-Run Scratch online in a web browser with an internet connection using this link rpf.io/scratchon.
-
-Run the micro:bit MakeCode editor in a web browser using this link: rpf.io/makecode.
+Run Scratch online in a web browser with an internet connection and open the starter project "shape shooter" using this link [rpf.io/scouts-game-design-on](http://rpf.io/scouts-game-design-on).
 
 ### If your meeting place doesn’t have WiFi
 
-Download the micro:bit code editor software beforehand; refer to the micro:bit guide rpf.io/scouts-microbit for instructions.
-
-Download the Scratch Desktop application beforehand; refere to the Scratch guide rpf.io/scouts-scratch for instructions. 
++ Download the Scratch Desktop application beforehand; refer to the Scratch guide [rpf.io/scouts-scratch](http://rpf.io/scouts-scratch) for instructions. 
++ Download the Scouts Game Design starter project "shape-shooter.sb3" from [rpf.io/scouts-game-design-go](http://rpf.io/scouts-game-design-go).
 
 ## Key messages
 
-+ These will be what the leaders need to draw out in any discussion
-+ As well as the key learning points that the activity is trying to get the 
++ Creating a computer game is as much about art as it is about the programming.
++ The theme of a computer game comes from what it looks and sounds like not just do it does.
 
 ## Leader instructions
-1. Stepped instructions describing how the leader should deliver / present the activity
+1. Discuss that computer games are not only created using code but also images.
+2. Describe that each image in a computer game is known as a sprite.
+3. If they haven't used it before introduce the young people to Scratch. Explain that it is a programming language for creating games, stories and animations.
+4. Explain that they will be modifying a computer game by creating new sprites for it.
+5. Demo the "shape shooter" game.
+6. Explain that the sprites can be changed to anything they want.
 
 ## Alternatives
 
-+ State whether tech-free version available (what we’ve been calling unplugged)
-+ Give other adaptations available.
++ Use other image editing software and upload costumes. 
++ Modify the games code to make it work differently
 
 ## Safety
 
@@ -54,7 +56,12 @@ You should also give each young person a Stay Safe leaflet (rpf.io/scouts-staysa
 
 ## Adaptability
 
-Here other badge resources primarily cover how you’d adapt this for different educational needs
++ Scouts could take pictures of objects they wanted to use as sprites and use the **Upload costume** option to create a sprite from the image.
+
+## Community and sharing
+
++ Ask the young people to showcase their new games and graphics. 
++ The games can also be shared on the Scratch website by logging in and clicking **Share**.
 
 # Activity / project title
 
@@ -62,21 +69,93 @@ Here other badge resources primarily cover how you’d adapt this for different 
 
 ## Did you know
 
-+ A relevant relating to the activity.
+Computer sprites are named after the mythical creatures because they *float* across the screen.
 
 ## Instructions
 
-1. Make sure they are numbered
-2. Really make sure they are numbered :)
+### Part 1 - The game design
+
+1. Open the "shape shooter" starter project in Scratch 3.
+
+**Online:** open the starter project at [rpf.io/scouts-game-design-on](http://rpf.io/scouts-game-design-on)
+
+**Offline:** click **File**, **Load from your computer** and select the `shape-shooter.sb3` file the leader has downloaded.
+
+You will see the game, sprites and code in Scratch.
+
+![starter project](images/starter-project.png)
+
+![starter project](images/starter-project-annotated.png)
+
+1. Clicking on the **green flag** to play the game.
+
+Shoot the squares with the ovals by using your mouse or touchscreen to control the triangle.
+
+![the game playing](images/play-game.png)
+
+As you can see the games graphics are really simple.
+
+1. Think about or discuss with your group what theme you want the game to have. The choice is yours, it could be a scouts theme such as "badge collector" or something of your own creation like "Fairies vs dragons".
+
+![badge collector game](images/badge-collector.png)
+
+1. Decide on a background and what 3 objects you are going to use for the **square**, **triangle** and **oval** sprites.
+
+### Part 2 - Create your sprites
+
+1. Select the square sprite and click on the costumes tab to open the editor.
+
+![costume editor with sprite and costume highlighted](images/square-costume-annotated.png)
+
+1. Select **Choose a Costume** in the bottom left and click **Paint** to create a new costume.
+
+![choose a costume menu with paint highlighted](images/paint-sprite.png)
+
+1. Use the editor to create a new costume for the square sprite.
+
+![vector editor](images/vector-editor-annotated.png)
+
+The **paint tools** allow you to draw and changes the lines, shapes and text in your sprite.
+
+The colour can be changed using the colour selector for **fill** and **outline**. 
+
+The colour is picked using 3 values:
++ `color` - the colour you want
++ `saturation` - how much of the colour you want
++ `brightness` - how bright you want the colour to be
+
+![colour selector](images/colour-selector.png)
+
+1. The square sprite can have more than 1 costume and it will switch between them as the move across the screen.
+
+By creating more than 1 costume for the sprite, you can animate it so looks like it is moving across the screen. 
+
+1. Delete any sprites you no longer need by clicking on the (x).
+
+![delete sprite with x highlighted](images/delete-sprite-annotated.png)
+
+1. Play the game and see how your new sprite looks.
+
+1. Create new costumes for your **triangle** and **oval** sprites.
+
+### Part 3 - Create a backdrop
+
+1. Your game should also have a background to compliment the game, select the **Stage** and click **Backdrops** to display the backdrops.
+
+![scratch screen with stage and backdrops highlighted](images/stage-backdrops-annotated.png)
+
+1. There are 2 backdrops, one used while the game is playing, one when its game over.
+
+![game and game over backdrops](images/backdrops.png)
+
+1. Create a new background for your game to complete the theme.
+
+1. Share your completed game with your friends and see who can get the highest score.
 
 ## Discuss
 
-A question related to the activity which they can discuss in a small group.
+How do you think the game could be modified to make it more fun or to fit your theme better?
 
 ## Tip
 
-Any tips which may help the Scouts engage or get more from the activity.
-
-## Sharing
-
-How the output or ideas from the activity might be shared with others. 
+When creating multiple costumes, use **duplicate** to create a copy and modify it rather than having to redraw.
