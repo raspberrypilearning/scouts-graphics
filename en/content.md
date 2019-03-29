@@ -75,7 +75,7 @@ In this activity you will be designing your own theme and graphics for a compute
 
 1. Open the "shape shooter" starter project in Scratch 3.
 
-    **Online:** open the starter project at [rpf.io/scouts-game-design-on](http://rpf.io/scouts-game-design-on)
+    **Online:** open the starter project at [rpf.io/scouts-graphics-on](http://rpf.io/scouts-graphics-on)
 
     **Offline:** click **File**, **Load from your computer** and select the `shape-shooter.sb3` file the leader has downloaded.
 
@@ -113,16 +113,16 @@ In this activity you will be designing your own theme and graphics for a compute
 
     The **paint tools** allow you to draw and changes the lines, shapes and text in your sprite.
 
-    The colour can be changed using the colour selector for **fill** and **outline**. 
+    The **colour** can be changed using the colour selector for **fill** and **outline**. 
 
-    The colour is picked using 3 values:
+    A colour is chose by using the 3 values:
     + `color` - the colour you want
     + `saturation` - how much of the colour you want
     + `brightness` - how bright you want the colour to be
 
     ![colour selector](images/colour-selector.png)
 
-    Bitmap mode allows you to paint your costumes using pixels rather than lines and shapes.
+    **Bitmap** mode allows you to paint your costumes using pixels rather than lines and shapes.
 
 4. The square sprite can have more than 1 costume and it will switch between them as the move across the screen.
 
@@ -132,7 +132,7 @@ In this activity you will be designing your own theme and graphics for a compute
 
     ![delete sprite with x highlighted](images/delete-sprite-annotated.png)
 
-6. Play the game and see how your new sprite looks.
+6. Play the game to see how your new sprite looks.
 
 7. Create new costumes for your **triangle** and **oval** sprites.
 
