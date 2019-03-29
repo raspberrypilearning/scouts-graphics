@@ -23,7 +23,7 @@ Young people will design a theme and create the sprites and background for a com
 
 ### If your meeting place has WiFi
 
-Run Scratch online in a web browser with an internet connection and open the starter project "shape shooter" using this link [rpf.io/scouts-graphics-on](http://rpf.io/scouts-game-design-on).
+Run Scratch online in a web browser with an internet connection and open the starter project "shape shooter" using this link [rpf.io/scouts-graphics-on](http://rpf.io/scouts-graphics-on).
 
 ### If your meeting place doesn’t have WiFi
 
@@ -77,7 +77,7 @@ In this activity you will be designing your own theme and graphics for a compute
 
     **Online:** open the starter project at [rpf.io/scouts-graphics-on](http://rpf.io/scouts-graphics-on)
 
-    **Offline:** click **File**, **Load from your computer** and select the `shape-shooter.sb3` file the leader has downloaded.
+    **Offline:** click **File**, **Load from your computer** and select the `shape-shooter.sb3` file your leader has downloaded.
 
     ![starter project](images/starter-project-annotated.png)
 
