@@ -42,6 +42,7 @@ Run Scratch online in a web browser with an internet connection and open the sta
 4. Explain that they will be modifying a computer game by creating new sprites for it.
 5. Demo the "shape shooter" game.
 6. Explain that the sprites can be changed to anything they want.
+7. You can introduce a theme for the game (e.g. recycling) or leave it up for the young people to decide.
 
 ## Alternatives
 
@@ -93,7 +94,9 @@ In this activity you will be designing your own theme and graphics for a compute
 
 3. Think about or discuss with your group what theme you want the game to have. The choice is yours, it could be a scouts theme such as "badge collector" or something of your own creation like "Fairies vs dragons".
 
-    ![badge collector game](images/badge-collector.png)
+    In this example "Plant waterer", the squares are dried out plants which need watering, the triangle is a bucket which fires water droplets instead of ovals.
+
+    ![plant waterer game](images/plant-waterer.png)
 
 4. Decide on a background and what you are going to use instead of the **square**, **triangle** and **oval** sprites.
 
@@ -109,9 +112,11 @@ In this activity you will be designing your own theme and graphics for a compute
 
 3. Use the editor to create a new costume for the square sprite.
 
-    ![vector editor](images/vector-editor-annotated.png)
+    Scratch has 2 editors, **Vector** and **Bitmap** editors.
 
-    The **paint tools** allow you to draw and changes the lines, shapes and text in your sprite.
+    The default is the **Vector** editor where the **paint tools** draw, move around and change lines, shapes and text.
+
+    ![vector editor](images/vector-editor-annotated.png)
 
     The **colour** can be changed using the colour selector for **fill** and **outline**. 
 
@@ -122,15 +127,17 @@ In this activity you will be designing your own theme and graphics for a compute
 
     ![colour selector](images/colour-selector.png)
 
-    **Bitmap** mode allows you to paint your costumes using pixels rather than lines and shapes.
+    **Bitmap** mode allows you to paint your costumes using pixels like you were using a paint brush or pencil.
+
+    ![bitmap editor](images/bitmap-editor.png)
 
 4. The square sprite can have more than 1 costume and it will switch between them as the move across the screen.
 
     By creating more than 1 costume for the sprite, you can animate it so looks like it is moving across the screen. 
 
-5. Delete any sprites you no longer need by clicking on the (x).
+5. Delete any costumes you no longer need by clicking on the (x).
 
-    ![delete sprite with x highlighted](images/delete-sprite-annotated.png)
+    ![delete costume with x highlighted](images/delete-costume-annotated.png)
 
 6. Play the game to see how your new sprite looks.
 
