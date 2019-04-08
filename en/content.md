@@ -32,11 +32,11 @@ Run Scratch online in a web browser with an internet connection and open the sta
 
 ## Key messages
 
-+ Creating a computer game is as much about art as it is about the programming.
-+ The theme of a computer game comes from what it looks and sounds like not just do it does.
++ Creating a computer game is as much about art as it is about programming.
++ The theme of a computer game comes from what it looks and sounds like not just what it does.
 
 ## Leader instructions
-1. Discuss that computer games are not only created using code but also images.
+1. Discuss that computer games are created using images as well as code.
 2. Describe that image in a computer game is often known as a sprite.
 3. If they haven't used it before introduce the young people to Scratch. Explain that it is a programming language for creating games, stories and animations.
 4. Explain that they will be modifying a computer game by creating new sprites for it.
@@ -94,7 +94,7 @@ In this activity you will be designing your own theme and graphics for a compute
 
 3. Think about or discuss with your group what theme you want the game to have. The choice is yours, it could be a scouts theme such as "badge collector" or something of your own creation like "Fairies vs dragons".
 
-    In this example "Plant waterer", the squares are dried out plants which need watering, the triangle is a bucket which fires water droplets instead of ovals.
+    In this example "Plant waterer", the squares are dried out plants which need watering and the triangle is a bucket which fires water droplets instead of ovals.
 
     ![plant waterer game](images/plant-waterer.png)
 
@@ -112,7 +112,7 @@ In this activity you will be designing your own theme and graphics for a compute
 
 3. Use the editor to create a new costume for the square sprite.
 
-    Scratch has 2 editors, **Vector** and **Bitmap** editors.
+    Scratch has 2 editors - **Vector** and **Bitmap**.
 
     The default is the **Vector** editor where the **paint tools** draw, move around and change lines, shapes and text.
 
