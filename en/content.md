@@ -8,12 +8,20 @@ This activity fulfills Stage 3, Requirement 3 of the Digital Maker Staged Activi
 
 Young people will design a theme and create the sprites and background for a computer game.
 
+## Outcomes
+
+Young people develop a range of practical and contemporary skills which are useful in their school, work and social life.
+
 ## Information 
 
 + Time - 45 minutes 
 + Group size - Flexible (ideally two young people per computer)
 + Preparation needed - If you’re running this activity without access to WiFi, you will need to download the software ahead of time. You may also wish to print handouts.
 + Location - Wherever you have access to computers
+
+[ ] Beavers [x] Cubs [x] Scouts [ ] Explorers
+
+Great for Cubs and Scouts and can be adapted for younger sections.
 
 ## You will need
 
@@ -63,6 +71,10 @@ You should also give each young person a Stay Safe leaflet [rpf.io/scouts-staysa
 
 + Ask the young people to showcase their new games and graphics. 
 + The games can also be shared on the Scratch website by logging in and using the **Share** option.
+
+## Reflection
+
+Ask the young people how they think the game could be modified to make it more fun or to fit their own theme better?
 
 # Graphics for games
 
@@ -160,10 +172,6 @@ In this activity you will be designing your own theme and graphics for a compute
 ## Did you know
 
 Computer sprites are named after the mythical creatures because they *float* across the screen.
-
-## Discuss
-
-How do you think the game could be modified to make it more fun or to fit your theme better?
 
 ## Tip
 
